@@ -1,0 +1,51 @@
+﻿اهلا وسهلا جميعا معاكم زياد إمام قلت اجرب وننوع 
+هذا هو ملخص الأسبوع كامل 
+
+درس 1: سيطر على جهازك (Command Line)
+- Command Line: تتحكم بجهازك بالكتابة بدل الماوس
+- الفرق:
+  - Folder = مجلد
+  - File = ملف
+- أهم الأوامر:
+  - pwd / chdir = تعرف مكانك
+  - ls / dir = تشوف الملفات
+  - cd = تدخل مجلد
+  - cd.. = ترجع للخلف
+- إنشاء:
+  - mkdir = مجلد جديد
+  - touch / echo = ملف جديد
+- نقل/نسخ:
+  - cp / copy = نسخ
+  - mv / move = نقل/إعادة تسمية
+- Paths:
+  - Absolute Path = مسار كامل
+  - Relative Path = مسار من موقعك الحالي
+
+درس 2: ليش Git
+
+- Version Control: يحفظ تاريخ التغييرات بدون فوضى نسخ v1 v2 v3
+- Git: برنامج على جهازك يتتبع التغييرات (بدون إنترنت)
+- GitHub: موقع ترفع عليه مشاريعك (يحتاج إنترنت)
+- ليش مهم جامعة + وظيفة + تعاون + Portfolio
+
+درس 3: جهز بيئة العمل
+
+- تثبيت الأدوات:
+  - Git
+  - VS Code
+  - Git Bash (للويندوز)
+- إعداد Git أول مرة (git config)
+
+درس 4: أول مشروع + رفعه على GitHub
+
+Git محلي:
+- git init
+- git status
+- git add
+- git commit -m "msg"
+- git log
+
+GitHub:
+- git remote add origin ...
+- git branch -M main
+- git push -u origin main
